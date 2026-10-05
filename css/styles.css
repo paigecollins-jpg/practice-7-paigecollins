@@ -37,3 +37,7 @@ nav ul {
     gap: 32px;
     list-style: none;
 }
+
+.hero {
+    display: flex;
+}
