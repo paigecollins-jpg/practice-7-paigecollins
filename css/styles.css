@@ -19,12 +19,16 @@ h1, h2, h3 .logo {
     line-height: 1;
 }
 
-.site-header a {
+.site-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 32px;
     background: #111111;
+    color: #f4f1ea;
+}
+
+.site-header a {
     color: #f4f1ea;
     text-decoration: none;
 }
