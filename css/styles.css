@@ -5,6 +5,7 @@
 }
 
 body {
+    display: grid;
     background: #f4f1ea;
     color: #111111;
     font-family: 'Work Sans', sans-serif;
